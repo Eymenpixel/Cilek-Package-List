@@ -1,26 +1,27 @@
-# 🚀 Kaya Repository
+# 📦 Kaya Package List
 
 <div align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
-[![Platform](https://img.shields.io/badge/Platform-Linux%20%2F%20Custom-blue.svg)]()
-[![Apt Compatible](https://img.shields.io/badge/Manager-APT-orange.svg)]()
+[![Registry Status](https://img.shields.io/badge/Registry-Online-success.svg)]()
+[![Maintained Packages](https://img.shields.io/badge/Packages-Custom-blue.svg)]()
+[![Version Check](https://img.shields.io/badge/Version-Customized-orange.svg)]()
 
-> *Hazır depoların kısıtlamalarından sıkılanlar için tamamen özgün, kendi ellerimizle kodladığımız çekirdek paket deposu!*
+> *Kaya ekosistemindeki tüm paketlerin, manifestoların ve versiyon kayıtlarının tutulduğu merkez.*
 
 </div>
 
 ---
 
-## 📌 Kaya Nedir?
-**Kaya**, dışarıdaki standart Ubuntu/Debian depolarına bağımlı kalmadan kendi kurallarımızı koyduğumuz ve `.deb` paketlerimizi barındırdığımız özel `apt` paket deposudur. 
+## 📌 Bu Repo Ne İşe Yarar?
+**Kaya-Package-List**, [Kaya](https://github.com/Eymenpixel/Kaya) deposunda barınan yazılımların ve paketlerin listesini tuttuğumuz yerdir.
 
-## 📂 Depo Yapısı (`pool` & `dists`)
-*   `pool/`: Sistemimize kurulmayı bekleyen `.deb` dosyalarının ve ham paketlerin ana yuvasıdır.
-*   `dists/`: `apt` yöneticisinin paketleri okuyabilmesi için gereken indekslerin (`Packages`, `Release` vb.) tutulduğu alandır.
+---
 
-## ⚙️ Depoyu Sisteme Ekleme
-Bu depoyu kendi sistemine entegre etmek için `/etc/apt/sources.list` dosyasına şu satırı ekleyebilirsin:
-```text
-deb [trusted=yes] file:///yol/to/Kaya stable main
+## 📄 License
+Bu proje **MIT Lisansı** ile korunmaktadır. Detaylı bilgi için [LICENSE](LICENSE) dosyasına göz atabilirsin.
+
+<div align="center">
+  <br>
+  <i>Managed EymenPixel.</i>
+</div>
