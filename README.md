@@ -7,14 +7,14 @@
 [![Maintained Packages](https://img.shields.io/badge/Packages-Custom-blue.svg)]()
 [![Version Check](https://img.shields.io/badge/Version-Customized-orange.svg)]()
 
-> *Kaya ekosistemindeki tüm paketlerin, manifestoların ve versiyon kayıtlarının tutulduğu merkez.*
+> *Çilek ekosistemindeki tüm paketlerin, manifestoların ve versiyon kayıtlarının tutulduğu merkez.*
 
 </div>
 
 ---
 
 ## 📌 Bu Repo Ne İşe Yarar?
-**Kaya-Package-List**, [Kaya](https://github.com/Eymenpixel/Kaya) deposunda barınan yazılımların ve paketlerin listesini tuttuğumuz yerdir.
+**Çilek-Package-List**, [Çilek](https://github.com/Eymenpixel/Cilek) deposunda barınan yazılımların ve paketlerin listesini tuttuğumuz yerdir.
 
 ---
 
