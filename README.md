@@ -1,4 +1,4 @@
-# 📦 Kaya Package List
+# 📦 Çilek Package List
 
 <div align="center">
 
