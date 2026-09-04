@@ -23,5 +23,5 @@ Bu proje **MIT Lisansı** ile korunmaktadır. Detaylı bilgi için [LICENSE](LIC
 
 <div align="center">
   <br>
-  <i>Managed EymenPixel.</i>
+  <i>Managed BlackBit.</i>
 </div>
