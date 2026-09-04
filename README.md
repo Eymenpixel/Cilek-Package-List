@@ -1,4 +1,4 @@
-# 📦 Çilek Package List
+# 📦 Blackbit Package Tool
 
 <div align="center">
 
@@ -7,14 +7,14 @@
 [![Maintained Packages](https://img.shields.io/badge/Packages-Custom-blue.svg)]()
 [![Version Check](https://img.shields.io/badge/Version-Customized-orange.svg)]()
 
-> *Çilek ekosistemindeki tüm paketlerin, manifestoların ve versiyon kayıtlarının tutulduğu merkez.*
+> *BlackBit ekosistemindeki tüm paketlerin, manifestoların ve versiyon kayıtlarının tutulduğu merkez.*
 
 </div>
 
 ---
 
 ## 📌 Bu Repo Ne İşe Yarar?
-**Çilek-Package-List**, [Çilek](https://github.com/Eymenpixel/Cilek) deposunda barınan yazılımların ve paketlerin listesini tuttuğumuz yerdir.
+**BlackBit**, [Blackbit](https://github.com/Eymenpixel/BlackBit) deposunda barınan yazılımların ve paketlerin listesini tuttuğumuz yerdir.
 
 ---
 
